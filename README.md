@@ -23,6 +23,6 @@ Open the notebook in Colab, install dependencies, and run each cell.
 - [Final Thesis Report (PDF)](docs/Final_Thesis.pdf)
 
 ## Author
-Anil Kumar Mallik | M.Sc Computer Science
+Anil Kumar Mallik | B.Sc Computer Science
 
 
