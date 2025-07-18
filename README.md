@@ -19,7 +19,7 @@ Open the notebook in Colab, install dependencies, and run each cell.
 
 ## 📄 Project Documents
 
-- [Presentation (PPT)](docs/Twitter_Sentiment_Analysis.ppt)
+- [Presentation (PPT)](docs/Twitter_Sentiment_Analysis.ppt.pptx)
 - [Final Thesis Report (PDF)](docs/Final_Thesis.pdf)
 
 ## Author
