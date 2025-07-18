@@ -17,5 +17,12 @@ This project performs sentiment analysis on Twitter data using Python in Google 
 ## How to Run
 Open the notebook in Colab, install dependencies, and run each cell.
 
+## 📄 Project Documents
+
+- [Presentation (PPT)](docs/Twitter_Sentiment_Analysis.ppt)
+- [Final Thesis Report (PDF)](docs/Final_Thesis.pdf)
+
 ## Author
 Anil Kumar Mallik | M.Sc Computer Science
+
+
